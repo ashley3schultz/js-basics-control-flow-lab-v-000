@@ -4,13 +4,14 @@ function scuberGreetingForFeet(num) {
   if (num < 400) {
     msg = 'This one is on me!'
   }
+  msg
 }
 
 function ternaryCheckCity() {
-  
+
 }
 
 
 function switchOnCharmFromTip() {
-  
+
 }
