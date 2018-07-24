@@ -12,12 +12,12 @@ function scuberGreetingForFeet(num) {
 }
 
 function ternaryCheckCity(city) {
-  let msg
-  city === 'NYC' ? msg = 'Ok, sounds good.' : msg = ''
-  msg
+  let msg;
+  city == 'NYC' ? msg = 'Ok, sounds good.' : msg = '';
+  msg;
 }
 
 
-function switchOnCharmFromTip() {
+function switchOnCharmFromTip(tip) {
 
 }
